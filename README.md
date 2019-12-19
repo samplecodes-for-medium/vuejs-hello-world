@@ -1,4 +1,4 @@
-# my-app
+# Vuejs Hello World App
 
 ## Project setup
 ```
